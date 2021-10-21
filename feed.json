@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "360 Management",
+    "description": "",
+    "home_page_url": "https://tjacobs624.github.io",
+    "feed_url": "https://tjacobs624.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tim Jacobs"
+    },
+    "items": [
+        {
+            "id": "https://tjacobs624.github.io/360-management.html",
+            "url": "https://tjacobs624.github.io/360-management.html",
+            "title": "360 Management",
+            "summary": "360 Management and WMK Properties does not care about the health and safety of the properties they lease, or the families they lease to.",
+            "content_html": "<p>360 Management and WMK Properties does not care about the health and safety of the properties they lease, or the families they lease to.</p>",
+            "author": {
+                "name": "Tim Jacobs"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-21T17:58:07-04:00",
+            "date_modified": "2021-10-21T17:58:07-04:00"
+        }
+    ]
+}

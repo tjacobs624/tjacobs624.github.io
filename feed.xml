@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>360 Management</title>
+    <link href="https://tjacobs624.github.io/feed.xml" rel="self" />
+    <link href="https://tjacobs624.github.io" />
+    <updated>2021-10-21T17:58:07-04:00</updated>
+    <author>
+        <name>Tim Jacobs</name>
+    </author>
+    <id>https://tjacobs624.github.io</id>
+
+    <entry>
+        <title>360 Management</title>
+        <author>
+            <name>Tim Jacobs</name>
+        </author>
+        <link href="https://tjacobs624.github.io/360-management.html"/>
+        <id>https://tjacobs624.github.io/360-management.html</id>
+
+        <updated>2021-10-21T17:58:07-04:00</updated>
+            <summary>
+                <![CDATA[
+                    360 Management and WMK Properties does not care about the health and safety of the properties they lease, or the families they lease to.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>360 Management and WMK Properties does not care about the health and safety of the properties they lease, or the families they lease to.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
